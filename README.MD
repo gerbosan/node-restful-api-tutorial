@@ -5,7 +5,7 @@
 - **ACADEMIND** - [node-restful-api-tutorial (GIT repository)](https://github.com/academind/node-restful-api-tutorial)
 
 ## Diagrama de archivos:
-![alt text](https://github.com/gerbosan/node-restful-api-tutorial/esquema.png "Esquema simple de sistema")
+![alt text](https://github.com/gerbosan/node-restful-api-tutorial/blob/master/esquema.png "Esquema simple de sistema")
 
 ## Archivos a modificar:
 ```VARIABLES.ENV.TEMPLATE```
